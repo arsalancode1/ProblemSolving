@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Graphs\CycleDetectionDirectedGraph.cs" />
+    <Compile Include="Graphs\LongestPathDAG.cs" />
     <Compile Include="Graphs\TopologicalSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
