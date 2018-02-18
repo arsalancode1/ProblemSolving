@@ -18,7 +18,7 @@ namespace ProblemSolving.Trees
         }
     }
 
-    class BinaryTree
+    partial class BinaryTree
     {
         private Node root;
 

@@ -13,7 +13,9 @@ namespace ProblemSolving
         {
 
             BinaryTree tree = new BinaryTree();
-            tree.CalculateHeight();
+            //tree.CalculateHeight();
+            tree.PrintLevelOrder();
+            Console.ReadLine();
         }
     }
 }

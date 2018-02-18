@@ -49,6 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\Anagram.cs" />
     <Compile Include="Trees\HeightOfTree.cs" />
+    <Compile Include="Trees\LevelOrderTraversal.cs" />
     <Compile Include="Trees\RootToLeafSum.cs" />
   </ItemGroup>
   <ItemGroup>
