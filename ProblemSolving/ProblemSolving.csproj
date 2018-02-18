@@ -51,6 +51,7 @@
     <Compile Include="Trees\HeightOfTree.cs" />
     <Compile Include="Trees\LevelOrderTraversal.cs" />
     <Compile Include="Trees\RootToLeafSum.cs" />
+    <Compile Include="Trees\SpiralTraversal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
