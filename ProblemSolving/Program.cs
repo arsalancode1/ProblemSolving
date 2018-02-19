@@ -14,7 +14,7 @@ namespace ProblemSolving
 
             BinaryTree tree = new BinaryTree();
             //tree.CalculateHeight();
-            tree.PrintSpiral();
+            tree.FindLCA();
             Console.ReadLine();
         }
     }
