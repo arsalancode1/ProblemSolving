@@ -29,7 +29,7 @@ namespace ProblemSolving.Trees
             root.RightNode = new Node(2);
             root.LeftNode.LeftNode = new Node(3);
             root.LeftNode.RightNode = new Node(5);
-            root.RightNode.LeftNode = new Node(2);
+            root.RightNode.LeftNode = new Node(1);
         }
 
         public void DetectSumpath(int sum)
