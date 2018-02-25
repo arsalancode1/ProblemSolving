@@ -1,4 +1,4 @@
-﻿using ProblemSolving.LinkedList;
+﻿using ProblemSolving.Trees;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +12,8 @@ namespace ProblemSolving
         static void Main(string[] args)
         {
 
-            LinkList list = new LinkList();
-            list.PrintSwapedNodes();
+            BinaryTree tree = new BinaryTree();
+            tree.PrintBoundaryNodes();
             Console.ReadLine();
         }
     }
